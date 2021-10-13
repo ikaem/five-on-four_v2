@@ -1,6 +1,6 @@
 {
-  "name": "five-on-four_v2",
-  "description": "Five on Four Match Maker",
+  "name": "four-on-five_v2",
+  "description": "Four On Five",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",

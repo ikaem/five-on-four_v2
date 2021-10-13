@@ -1,8 +1,8 @@
 version: '2.0'
 
 services:
-  five-on-four:
-    container_name: five-on-four
+  four-on-five:
+    container_name: four-on-five
     build:
       context: .
       dockerfile: Dockerfile
