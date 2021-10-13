@@ -1,0 +1,5 @@
+node_modules
+build
+.git
+Dockerfile
+# TODO add testing stuff too?
